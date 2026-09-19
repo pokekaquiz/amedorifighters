@@ -1,0 +1,1928 @@
+[
+  {
+    "file": "046803_T_TSURIZAOMAX.jpg",
+    "name": "つりざおMAX",
+    "wide": false,
+    "category": "goods",
+    "source": "amedori",
+    "store": "ikebukuro",
+    "path": "./amedori/ikebukuro/046803_T_TSURIZAOMAX.jpg"
+  },
+  {
+    "file": "047750_P_ESUBAN.jpg",
+    "name": "エースバーン",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "ikebukuro",
+    "path": "./amedori/ikebukuro/047750_P_ESUBAN.jpg"
+  },
+  {
+    "file": "048609_P_SORUROKKU.jpg",
+    "name": "ソルロック",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "ikebukuro",
+    "path": "./amedori/ikebukuro/048609_P_SORUROKKU.jpg"
+  },
+  {
+    "file": "049025_P_SAMAYORU.jpg",
+    "name": "サマヨール",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "ikebukuro",
+    "path": "./amedori/ikebukuro/049025_P_SAMAYORU.jpg"
+  },
+  {
+    "file": "049026_P_YONOWARU.jpg",
+    "name": "ヨノワール",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "ikebukuro",
+    "path": "./amedori/ikebukuro/049026_P_YONOWARU.jpg"
+  },
+  {
+    "file": "049087_P_RUNATON.jpg",
+    "name": "ルナトーン",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "ikebukuro",
+    "path": "./amedori/ikebukuro/049087_P_RUNATON.jpg"
+  },
+  {
+    "file": "049228_P_GENOSEKUTOEX.jpg",
+    "name": "ゲノセクトex",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "ikebukuro",
+    "path": "./amedori/ikebukuro/049228_P_GENOSEKUTOEX.jpg"
+  },
+  {
+    "file": "049354_T_ENERUGITSUKEKAE.jpg",
+    "name": "エネルギーつけかえ",
+    "wide": false,
+    "category": "goods",
+    "source": "amedori",
+    "store": "ikebukuro",
+    "path": "./amedori/ikebukuro/049354_T_ENERUGITSUKEKAE.jpg"
+  },
+  {
+    "file": "049372_T_PURAIMUKIXYATCHIXYA.jpg",
+    "name": "プライムキャッチャー",
+    "wide": false,
+    "category": "goods",
+    "source": "amedori",
+    "store": "ikebukuro",
+    "path": "./amedori/ikebukuro/049372_T_PURAIMUKIXYATCHIXYA.jpg"
+  },
+  {
+    "file": "049374_T_PURESHIXYASUKIXYARI.jpg",
+    "name": "プレシャスキャリー",
+    "wide": false,
+    "category": "goods",
+    "source": "amedori",
+    "store": "ikebukuro",
+    "path": "./amedori/ikebukuro/049374_T_PURESHIXYASUKIXYARI.jpg"
+  },
+  {
+    "file": "049376_T_POKEGIA30.jpg",
+    "name": "ポケギア3.0",
+    "wide": false,
+    "category": "goods",
+    "source": "amedori",
+    "store": "ikebukuro",
+    "path": "./amedori/ikebukuro/049376_T_POKEGIA30.jpg"
+  },
+  {
+    "file": "049403_T_HIROMANTO.jpg",
+    "name": "ヒーローマント",
+    "wide": false,
+    "category": "goods",
+    "source": "amedori",
+    "store": "ikebukuro",
+    "path": "./amedori/ikebukuro/049403_T_HIROMANTO.jpg"
+  },
+  {
+    "file": "049405_T_BUREIBUBANGURU.jpg",
+    "name": "ブレイブバングル",
+    "wide": false,
+    "category": "goods",
+    "source": "amedori",
+    "store": "ikebukuro",
+    "path": "./amedori/ikebukuro/049405_T_BUREIBUBANGURU.jpg"
+  },
+  {
+    "file": "049708_T_MEINOHAGEMASHI.jpg",
+    "name": "メイのはげまし",
+    "wide": false,
+    "category": "supporter",
+    "source": "amedori",
+    "store": "ikebukuro",
+    "path": "./amedori/ikebukuro/049708_T_MEINOHAGEMASHI.jpg"
+  },
+  {
+    "file": "050400_P_FUAIAROIEKKUSU.jpg",
+    "name": "ファイアローex",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "ikebukuro",
+    "path": "./amedori/ikebukuro/050400_P_FUAIAROIEKKUSU.jpg"
+  },
+  {
+    "file": "046034_T_JIXYUURIXYOKUDAMA.jpg",
+    "name": "重力玉",
+    "wide": false,
+    "category": "goods",
+    "source": "amedori",
+    "store": "oomiya",
+    "path": "./amedori/oomiya/046034_T_JIXYUURIXYOKUDAMA.jpg"
+  },
+  {
+    "file": "047214_T_JIXYAMINGUTAWA.jpg",
+    "name": "ジャミングタワー",
+    "wide": false,
+    "category": "stadium",
+    "source": "amedori",
+    "store": "oomiya",
+    "path": "./amedori/oomiya/047214_T_JIXYAMINGUTAWA.jpg"
+  },
+  {
+    "file": "048680_T_MSHIGUNARU.jpg",
+    "name": "メガシグナル",
+    "wide": false,
+    "category": "goods",
+    "source": "amedori",
+    "store": "oomiya",
+    "path": "./amedori/oomiya/048680_T_MSHIGUNARU.jpg"
+  },
+  {
+    "file": "049368_T_PAWAPUROTEIN.jpg",
+    "name": "パワープロテイン",
+    "wide": false,
+    "category": "goods",
+    "source": "amedori",
+    "store": "oomiya",
+    "path": "./amedori/oomiya/049368_T_PAWAPUROTEIN.jpg"
+  },
+  {
+    "file": "049376_T_POKEGIA30.jpg",
+    "name": "ポケギア3.0",
+    "wide": false,
+    "category": "goods",
+    "source": "amedori",
+    "store": "oomiya",
+    "path": "./amedori/oomiya/049376_T_POKEGIA30.jpg"
+  },
+  {
+    "file": "049381_T_POKEMONKIXYATCHIXYA.jpg",
+    "name": "ポケモンキャッチャー",
+    "wide": false,
+    "category": "goods",
+    "source": "amedori",
+    "store": "oomiya",
+    "path": "./amedori/oomiya/049381_T_POKEMONKIXYATCHIXYA.jpg"
+  },
+  {
+    "file": "049386_T_YORUNOTANKA.jpg",
+    "name": "夜のタンカ",
+    "wide": false,
+    "category": "goods",
+    "source": "amedori",
+    "store": "oomiya",
+    "path": "./amedori/oomiya/049386_T_YORUNOTANKA.jpg"
+  },
+  {
+    "file": "049390_T_ROKETTODANNOBIKKURIBOMU.jpg",
+    "name": "ロケット団のびっくりボム",
+    "wide": false,
+    "category": "goods",
+    "source": "amedori",
+    "store": "oomiya",
+    "path": "./amedori/oomiya/049390_T_ROKETTODANNOBIKKURIBOMU.jpg"
+  },
+  {
+    "file": "049391_T_ROKETTODANNORESHIBA.jpg",
+    "name": "ロケット団のレシーバー",
+    "wide": false,
+    "category": "goods",
+    "source": "amedori",
+    "store": "oomiya",
+    "path": "./amedori/oomiya/049391_T_ROKETTODANNORESHIBA.jpg"
+  },
+  {
+    "file": "049395_T_KAUNTAGEIN.jpg",
+    "name": "カウンターゲイン",
+    "wide": false,
+    "category": "goods",
+    "source": "amedori",
+    "store": "oomiya",
+    "path": "./amedori/oomiya/049395_T_KAUNTAGEIN.jpg"
+  },
+  {
+    "file": "049396_T_KIRAMEKUKESSHIXYOU.jpg",
+    "name": "きらめく結晶",
+    "wide": false,
+    "category": "goods",
+    "source": "amedori",
+    "store": "oomiya",
+    "path": "./amedori/oomiya/049396_T_KIRAMEKUKESSHIXYOU.jpg"
+  },
+  {
+    "file": "049397_T_KUSARIMOCHI.jpg",
+    "name": "くさりもち",
+    "wide": false,
+    "category": "goods",
+    "source": "amedori",
+    "store": "oomiya",
+    "path": "./amedori/oomiya/049397_T_KUSARIMOCHI.jpg"
+  },
+  {
+    "file": "049399_T_CHIKARANOSUNADOKEI.jpg",
+    "name": "力の砂時計",
+    "wide": false,
+    "category": "goods",
+    "source": "amedori",
+    "store": "oomiya",
+    "path": "./amedori/oomiya/049399_T_CHIKARANOSUNADOKEI.jpg"
+  },
+  {
+    "file": "050289_T_DAKUBERU.jpg",
+    "name": "ダークベル",
+    "wide": false,
+    "category": "goods",
+    "source": "amedori",
+    "store": "oomiya",
+    "path": "./amedori/oomiya/050289_T_DAKUBERU.jpg"
+  },
+  {
+    "file": "050461_T_HAIPABORU.jpg",
+    "name": "ハイパーボール",
+    "wide": false,
+    "category": "goods",
+    "source": "amedori",
+    "store": "oomiya",
+    "path": "./amedori/oomiya/050461_T_HAIPABORU.jpg"
+  },
+  {
+    "file": "050462_T_FUSHIGINAAME.jpg",
+    "name": "ふしぎなアメ",
+    "wide": false,
+    "category": "goods",
+    "source": "amedori",
+    "store": "oomiya",
+    "path": "./amedori/oomiya/050462_T_FUSHIGINAAME.jpg"
+  },
+  {
+    "file": "050463_T_POKEPADDO.jpg",
+    "name": "ポケパッド",
+    "wide": false,
+    "category": "goods",
+    "source": "amedori",
+    "store": "oomiya",
+    "path": "./amedori/oomiya/050463_T_POKEPADDO.jpg"
+  },
+  {
+    "file": "040957_P_RUKARIO.jpg",
+    "name": "ルカリオ",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "kamata",
+    "path": "./amedori/kamata/040957_P_RUKARIO.jpg"
+  },
+  {
+    "file": "041734_P_METAMON.jpg",
+    "name": "メタモン",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "kamata",
+    "path": "./amedori/kamata/041734_P_METAMON.jpg"
+  },
+  {
+    "file": "041985_P_FURIZA.jpg",
+    "name": "フリーザー",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "kamata",
+    "path": "./amedori/kamata/041985_P_FURIZA.jpg"
+  },
+  {
+    "file": "041988_P_HINBASU.jpg",
+    "name": "ヒンバス",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "kamata",
+    "path": "./amedori/kamata/041988_P_HINBASU.jpg"
+  },
+  {
+    "file": "043348_P_SANDO.jpg",
+    "name": "サンド",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "kamata",
+    "path": "./amedori/kamata/043348_P_SANDO.jpg"
+  },
+  {
+    "file": "043362_P_ZUBATTO.jpg",
+    "name": "ズバット",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "kamata",
+    "path": "./amedori/kamata/043362_P_ZUBATTO.jpg"
+  },
+  {
+    "file": "043371_P_DEIGUDA.jpg",
+    "name": "ディグダ",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "kamata",
+    "path": "./amedori/kamata/043371_P_DEIGUDA.jpg"
+  },
+  {
+    "file": "043400_P_YADON.jpg",
+    "name": "ヤドン",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "kamata",
+    "path": "./amedori/kamata/043400_P_YADON.jpg"
+  },
+  {
+    "file": "043416_P_IWAKU.jpg",
+    "name": "イワーク",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "kamata",
+    "path": "./amedori/kamata/043416_P_IWAKU.jpg"
+  },
+  {
+    "file": "043897_P_YOGIRASU.jpg",
+    "name": "ヨーギラス",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "kamata",
+    "path": "./amedori/kamata/043897_P_YOGIRASU.jpg"
+  },
+  {
+    "file": "046209_P_MARIRURI.jpg",
+    "name": "マリルリ",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "kamata",
+    "path": "./amedori/kamata/046209_P_MARIRURI.jpg"
+  },
+  {
+    "file": "046213_P_MIMIKKIXYU.jpg",
+    "name": "ミミッキュ",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "kamata",
+    "path": "./amedori/kamata/046213_P_MIMIKKIXYU.jpg"
+  },
+  {
+    "file": "046409_P_KORAIDON.jpg",
+    "name": "コライドン",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "kamata",
+    "path": "./amedori/kamata/046409_P_KORAIDON.jpg"
+  },
+  {
+    "file": "046693_P_WANINOKO.jpg",
+    "name": "ワニノコ",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "kamata",
+    "path": "./amedori/kamata/046693_P_WANINOKO.jpg"
+  },
+  {
+    "file": "046742_P_FUKAMARU.jpg",
+    "name": "フカマル",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "kamata",
+    "path": "./amedori/kamata/046742_P_FUKAMARU.jpg"
+  },
+  {
+    "file": "046793_P_REJIGIGASU.jpg",
+    "name": "レジギガス",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "kamata",
+    "path": "./amedori/kamata/046793_P_REJIGIGASU.jpg"
+  },
+  {
+    "file": "047310_P_HIBIKINOHINOARASHI.jpg",
+    "name": "ヒビキのヒノアラシ",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "kamata",
+    "path": "./amedori/kamata/047310_P_HIBIKINOHINOARASHI.jpg"
+  },
+  {
+    "file": "047411_P_ACHIXYAMO.jpg",
+    "name": "アチャモ",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "kamata",
+    "path": "./amedori/kamata/047411_P_ACHIXYAMO.jpg"
+  },
+  {
+    "file": "047812_P_KAIOGA.jpg",
+    "name": "カイオーガ",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "kamata",
+    "path": "./amedori/kamata/047812_P_KAIOGA.jpg"
+  },
+  {
+    "file": "047827_P_RAKURAI.jpg",
+    "name": "ラクライ",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "kamata",
+    "path": "./amedori/kamata/047827_P_RAKURAI.jpg"
+  },
+  {
+    "file": "048351_P_HITOKAGE.jpg",
+    "name": "ヒトカゲ",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "kamata",
+    "path": "./amedori/kamata/048351_P_HITOKAGE.jpg"
+  },
+  {
+    "file": "049694_P_NIXYASUEX.jpg",
+    "name": "ニャースex",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "kamata",
+    "path": "./amedori/kamata/049694_P_NIXYASUEX.jpg"
+  },
+  {
+    "file": "050094_P_HOUOU.jpg",
+    "name": "ホウオウ",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "kamata",
+    "path": "./amedori/kamata/050094_P_HOUOU.jpg"
+  },
+  {
+    "file": "050143_P_METAGUROSU.jpg",
+    "name": "メタグロス",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "kamata",
+    "path": "./amedori/kamata/050143_P_METAGUROSU.jpg"
+  },
+  {
+    "file": "050709_P_RUGIA.jpg",
+    "name": "ルギア",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "kamata",
+    "path": "./amedori/kamata/050709_P_RUGIA.jpg"
+  },
+  {
+    "file": "045216_T_KIKENNAMITSURIN.jpg",
+    "name": "危険な密林",
+    "wide": false,
+    "category": "stadium",
+    "source": "amedori",
+    "store": "kichijoji",
+    "path": "./amedori/kichijoji/045216_T_KIKENNAMITSURIN.jpg"
+  },
+  {
+    "file": "045939_T_YORUNOAKADEMI.jpg",
+    "name": "夜のアカデミー",
+    "wide": false,
+    "category": "stadium",
+    "source": "amedori",
+    "store": "kichijoji",
+    "path": "./amedori/kichijoji/045939_T_YORUNOAKADEMI.jpg"
+  },
+  {
+    "file": "046442_T_SHIANO.jpg",
+    "name": "シアノ",
+    "wide": false,
+    "category": "supporter",
+    "source": "amedori",
+    "store": "kichijoji",
+    "path": "./amedori/kichijoji/046442_T_SHIANO.jpg"
+  },
+  {
+    "file": "047271_T_SUPAIKUTAUNJIMU.jpg",
+    "name": "スパイクタウンジム",
+    "wide": false,
+    "category": "stadium",
+    "source": "amedori",
+    "store": "kichijoji",
+    "path": "./amedori/kichijoji/047271_T_SUPAIKUTAUNJIMU.jpg"
+  },
+  {
+    "file": "048692_T_KANARII.jpg",
+    "name": "カナリィ",
+    "wide": false,
+    "category": "supporter",
+    "source": "amedori",
+    "store": "kichijoji",
+    "path": "./amedori/kichijoji/048692_T_KANARII.jpg"
+  },
+  {
+    "file": "049206_P_MOMOWAROU.jpg",
+    "name": "モモワロウ",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "kichijoji",
+    "path": "./amedori/kichijoji/049206_P_MOMOWAROU.jpg"
+  },
+  {
+    "file": "049364_T_NAKAYOSHIPOFUIN.jpg",
+    "name": "なかよしポフィン",
+    "wide": false,
+    "category": "goods",
+    "source": "amedori",
+    "store": "kichijoji",
+    "path": "./amedori/kichijoji/049364_T_NAKAYOSHIPOFUIN.jpg"
+  },
+  {
+    "file": "049376_T_POKEGIA30.jpg",
+    "name": "ポケギア3.0",
+    "wide": false,
+    "category": "goods",
+    "source": "amedori",
+    "store": "kichijoji",
+    "path": "./amedori/kichijoji/049376_T_POKEGIA30.jpg"
+  },
+  {
+    "file": "049412_T_AKAMATSU.jpg",
+    "name": "アカマツ",
+    "wide": false,
+    "category": "supporter",
+    "source": "amedori",
+    "store": "kichijoji",
+    "path": "./amedori/kichijoji/049412_T_AKAMATSU.jpg"
+  },
+  {
+    "file": "049420_T_KARATEOUNOKEIKO.jpg",
+    "name": "からておうの稽古",
+    "wide": false,
+    "category": "supporter",
+    "source": "amedori",
+    "store": "kichijoji",
+    "path": "./amedori/kichijoji/049420_T_KARATEOUNOKEIKO.jpg"
+  },
+  {
+    "file": "049425_T_SAZARE.jpg",
+    "name": "サザレ",
+    "wide": false,
+    "category": "supporter",
+    "source": "amedori",
+    "store": "kichijoji",
+    "path": "./amedori/kichijoji/049425_T_SAZARE.jpg"
+  },
+  {
+    "file": "049450_T_ROKETTODANNORAMUDA.jpg",
+    "name": "ロケット団のラムダ",
+    "wide": false,
+    "category": "supporter",
+    "source": "amedori",
+    "store": "kichijoji",
+    "path": "./amedori/kichijoji/049450_T_ROKETTODANNORAMUDA.jpg"
+  },
+  {
+    "file": "049451_T_ROKETTODANNORANSU.jpg",
+    "name": "ロケット団のランス",
+    "wide": false,
+    "category": "supporter",
+    "source": "amedori",
+    "store": "kichijoji",
+    "path": "./amedori/kichijoji/049451_T_ROKETTODANNORANSU.jpg"
+  },
+  {
+    "file": "050156_T_SUPESHIXYARUREDDOKADO.jpg",
+    "name": "スペシャルレッドカード",
+    "wide": false,
+    "category": "goods",
+    "source": "amedori",
+    "store": "kichijoji",
+    "path": "./amedori/kichijoji/050156_T_SUPESHIXYARUREDDOKADO.jpg"
+  },
+  {
+    "file": "050160_T_JIPUSO.jpg",
+    "name": "ジプソ",
+    "wide": false,
+    "category": "supporter",
+    "source": "amedori",
+    "store": "kichijoji",
+    "path": "./amedori/kichijoji/050160_T_JIPUSO.jpg"
+  },
+  {
+    "file": "050295_T_GURAJIONOKESSEN.jpg",
+    "name": "グラジオの決戦",
+    "wide": false,
+    "category": "supporter",
+    "source": "amedori",
+    "store": "kichijoji",
+    "path": "./amedori/kichijoji/050295_T_GURAJIONOKESSEN.jpg"
+  },
+  {
+    "file": "050448_T_JIXYAJJIMAN.jpg",
+    "name": "ジャッジマン",
+    "wide": false,
+    "category": "supporter",
+    "source": "amedori",
+    "store": "kichijoji",
+    "path": "./amedori/kichijoji/050448_T_JIXYAJJIMAN.jpg"
+  },
+  {
+    "file": "050468_T_RIRIENOKESSHIN.jpg",
+    "name": "リーリエの決心",
+    "wide": false,
+    "category": "supporter",
+    "source": "amedori",
+    "store": "kichijoji",
+    "path": "./amedori/kichijoji/050468_T_RIRIENOKESSHIN.jpg"
+  },
+  {
+    "file": "card-1.png",
+    "name": "リザードン",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/card-1.png"
+  },
+  {
+    "file": "card-10.png",
+    "name": "ひかるコイキング",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/card-10.png"
+  },
+  {
+    "file": "card-11.png",
+    "name": "マグマ団のグラードン",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/card-11.png"
+  },
+  {
+    "file": "card-12.png",
+    "name": "ブラッキー☆",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/card-12.png"
+  },
+  {
+    "file": "card-13.png",
+    "name": "ロケット団の幹部",
+    "wide": false,
+    "category": "supporter",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/card-13.png"
+  },
+  {
+    "file": "card-14.png",
+    "name": "ミュウex",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/card-14.png"
+  },
+  {
+    "file": "card-15.png",
+    "name": "サーナイトex",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/card-15.png"
+  },
+  {
+    "file": "card-16.png",
+    "name": "ネンドール",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/card-16.png"
+  },
+  {
+    "file": "card-17.png",
+    "name": "レントラーGL LV.X",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/card-17.png"
+  },
+  {
+    "file": "card-18.png",
+    "name": "ガブリアスC LV.X",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/card-18.png"
+  },
+  {
+    "file": "card-19.png",
+    "name": "ドンファン",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/card-19.png"
+  },
+  {
+    "file": "card-2.png",
+    "name": "フシギバナ",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/card-2.png"
+  },
+  {
+    "file": "card-20.png",
+    "name": "レシラム",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/card-20.png"
+  },
+  {
+    "file": "card-21.png",
+    "name": "ゼクロム",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/card-21.png"
+  },
+  {
+    "file": "card-22.png",
+    "name": "ミュウツーEX",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/card-22.png"
+  },
+  {
+    "file": "card-23.png",
+    "name": "ゼルネアスEX",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/card-23.png"
+  },
+  {
+    "file": "card-24.png",
+    "name": "MレックウザEX",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/card-24.png"
+  },
+  {
+    "file": "card-25.png",
+    "name": "カプ・テテフGX",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/card-25.png"
+  },
+  {
+    "file": "card-3.png",
+    "name": "カメックス",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/card-3.png"
+  },
+  {
+    "file": "card-4.png",
+    "name": "にせオーキドはかせ",
+    "wide": false,
+    "category": "supporter",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/card-4.png"
+  },
+  {
+    "file": "card-5.png",
+    "name": "わるいギャラドス",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/card-5.png"
+  },
+  {
+    "file": "card-6.png",
+    "name": "ロケット団参上！",
+    "wide": false,
+    "category": "supporter",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/card-6.png"
+  },
+  {
+    "file": "card-7.png",
+    "name": "＿＿＿＿のピカチュウ",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/card-7.png"
+  },
+  {
+    "file": "card-8.png",
+    "name": "R団のサンダー",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/card-8.png"
+  },
+  {
+    "file": "card-9.png",
+    "name": "ピィ",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/card-9.png"
+  },
+  {
+    "file": "m6a_001_hc7df7eq.png",
+    "name": "タマタマ",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_001_hc7df7eq.png"
+  },
+  {
+    "file": "m6a_002_ytpx60wz.png",
+    "name": "アローラナッシー",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_002_ytpx60wz.png"
+  },
+  {
+    "file": "m6a_003_ey8n9pav.png",
+    "name": "バルビート",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_003_ey8n9pav.png"
+  },
+  {
+    "file": "m6a_004_zw46f7bl.png",
+    "name": "イルミーゼ",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_004_zw46f7bl.png"
+  },
+  {
+    "file": "m6a_005_4zfjsx2a.png",
+    "name": "ビビヨン",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_005_4zfjsx2a.png"
+  },
+  {
+    "file": "m6a_006_isblvh2i.png",
+    "name": "ファイヤー",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_006_isblvh2i.png"
+  },
+  {
+    "file": "m6a_007_rj5sa808.png",
+    "name": "ホウオウ",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_007_rj5sa808.png"
+  },
+  {
+    "file": "m6a_008_odcy84e4.png",
+    "name": "レシラム",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_008_odcy84e4.png"
+  },
+  {
+    "file": "m6a_009_tgnlf9eg.png",
+    "name": "ホゲータex",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_009_tgnlf9eg.png"
+  },
+  {
+    "file": "m6a_010_wxxycl1a.png",
+    "name": "ヤドン",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_010_wxxycl1a.png"
+  },
+  {
+    "file": "m6a_011_qx1ec88j.png",
+    "name": "ラプラス",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_011_qx1ec88j.png"
+  },
+  {
+    "file": "m6a_012_3n12i2cu.png",
+    "name": "フリーザー",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_012_3n12i2cu.png"
+  },
+  {
+    "file": "m6a_013_ym04dfe1.png",
+    "name": "カイオーガ",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_013_ym04dfe1.png"
+  },
+  {
+    "file": "m6a_014_2zanac0y.png",
+    "name": "パルキア",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_014_2zanac0y.png"
+  },
+  {
+    "file": "m6a_015_rno6etm0.png",
+    "name": "ゲッコウガex",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_015_rno6etm0.png"
+  },
+  {
+    "file": "m6a_016_i0zd5bub.png",
+    "name": "ヨワシ",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_016_i0zd5bub.png"
+  },
+  {
+    "file": "m6a_017_h56jbaof.png",
+    "name": "ピカチュウ",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_017_h56jbaof.png"
+  },
+  {
+    "file": "m6a_049_3baiqorp.png",
+    "name": "サンダー",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_049_3baiqorp.png"
+  },
+  {
+    "file": "m6a_050_s447e8et.png",
+    "name": "ゼクロム",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_050_s447e8et.png"
+  },
+  {
+    "file": "m6a_051_xyko86ej.png",
+    "name": "ストリンダー",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_051_xyko86ej.png"
+  },
+  {
+    "file": "m6a_052_te9g8axi.png",
+    "name": "モルペコ",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_052_te9g8axi.png"
+  },
+  {
+    "file": "m6a_053_gv8858g7.png",
+    "name": "ミライドン",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_053_gv8858g7.png"
+  },
+  {
+    "file": "m6a_054_76gew8dw.png",
+    "name": "ミュウツー",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_054_76gew8dw.png"
+  },
+  {
+    "file": "m6a_055_ad6dvoyv.png",
+    "name": "ミュウツーex",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_055_ad6dvoyv.png"
+  },
+  {
+    "file": "m6a_056_ejvgeqfx.png",
+    "name": "ミュウ",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_056_ejvgeqfx.png"
+  },
+  {
+    "file": "m6a_057_96knft7k.png",
+    "name": "ミュウex",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_057_96knft7k.png"
+  },
+  {
+    "file": "m6a_058_7gofmz46.png",
+    "name": "エーフィ",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_058_7gofmz46.png"
+  },
+  {
+    "file": "m6a_059_qeqmyzr6.png",
+    "name": "ニンフィアex",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_059_qeqmyzr6.png"
+  },
+  {
+    "file": "m6a_060_naivcf0z.png",
+    "name": "アンノーン",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_060_naivcf0z.png"
+  },
+  {
+    "file": "m6a_061_rssvu4eb.png",
+    "name": "フワンテ",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_061_rssvu4eb.png"
+  },
+  {
+    "file": "m6a_062_lj14gtvs.png",
+    "name": "シャンデラ",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_062_lj14gtvs.png"
+  },
+  {
+    "file": "m6a_063_m0lgnt3j.png",
+    "name": "ゼルネアス",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_063_m0lgnt3j.png"
+  },
+  {
+    "file": "m6a_064_lcnb30gt.png",
+    "name": "コスモッグ",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_064_lcnb30gt.png"
+  },
+  {
+    "file": "m6a_065_ia520j9k.png",
+    "name": "コスモウム",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_065_ia520j9k.png"
+  },
+  {
+    "file": "m6a_066_1thpr3u6.png",
+    "name": "ルナアーラ",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_066_1thpr3u6.png"
+  },
+  {
+    "file": "m6a_067_64igtdqh.png",
+    "name": "コレクレー",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_067_64igtdqh.png"
+  },
+  {
+    "file": "m6a_068_vjlaldtf.png",
+    "name": "グラードン",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_068_vjlaldtf.png"
+  },
+  {
+    "file": "m6a_069_u45hupce.png",
+    "name": "ルカリオ",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_069_u45hupce.png"
+  },
+  {
+    "file": "m6a_070_lubmkk18.png",
+    "name": "ガマゲロゲ",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_070_lubmkk18.png"
+  },
+  {
+    "file": "m6a_071_b5nmhn1v.png",
+    "name": "ルガルガン",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_071_b5nmhn1v.png"
+  },
+  {
+    "file": "m6a_072_oywrntzo.png",
+    "name": "コライドン",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_072_oywrntzo.png"
+  },
+  {
+    "file": "m6a_073_6i6trcjm.png",
+    "name": "ニドラン♀",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_073_6i6trcjm.png"
+  },
+  {
+    "file": "m6a_074_j9ap64ot.png",
+    "name": "ニドリーナ",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_074_j9ap64ot.png"
+  },
+  {
+    "file": "m6a_075_yfz6qyoe.png",
+    "name": "アローラニャース",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_075_yfz6qyoe.png"
+  },
+  {
+    "file": "m6a_076_hb5rxbgh.png",
+    "name": "ゲンガーex",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_076_hb5rxbgh.png"
+  },
+  {
+    "file": "m6a_077_wnnozi6p.png",
+    "name": "ブラッキー",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_077_wnnozi6p.png"
+  },
+  {
+    "file": "m6a_078_ktyhqodm.png",
+    "name": "ズルッグ",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_078_ktyhqodm.png"
+  },
+  {
+    "file": "m6a_079_a6tuon82.png",
+    "name": "イベルタル",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_079_a6tuon82.png"
+  },
+  {
+    "file": "m6a_080_imphf1h1.png",
+    "name": "ガラルニャース",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_080_imphf1h1.png"
+  },
+  {
+    "file": "m6a_081_ga3gexcy.png",
+    "name": "ジラーチex",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_081_ga3gexcy.png"
+  },
+  {
+    "file": "m6a_082_2j5vgg16.png",
+    "name": "ディアルガ",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_082_2j5vgg16.png"
+  },
+  {
+    "file": "m6a_083_ilr6v685.png",
+    "name": "ナットレイ",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_083_ilr6v685.png"
+  },
+  {
+    "file": "m6a_084_v61j1cep.png",
+    "name": "ソルガレオ",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_084_v61j1cep.png"
+  },
+  {
+    "file": "m6a_085_ieocdin1.png",
+    "name": "ザシアン",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_085_ieocdin1.png"
+  },
+  {
+    "file": "m6a_086_nhszoct1.png",
+    "name": "ザマゼンタ",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_086_nhszoct1.png"
+  },
+  {
+    "file": "m6a_087_m4rdu8j5.png",
+    "name": "サーフゴー",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_087_m4rdu8j5.png"
+  },
+  {
+    "file": "m6a_088_pl1agm4m.png",
+    "name": "ボーマンダex",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_088_pl1agm4m.png"
+  },
+  {
+    "file": "m6a_089_i1zozg0n.png",
+    "name": "ジャラコ",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_089_i1zozg0n.png"
+  },
+  {
+    "file": "m6a_090_39v8gn4b.png",
+    "name": "ジャランゴ",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_090_39v8gn4b.png"
+  },
+  {
+    "file": "m6a_091_q2j1tgn6.png",
+    "name": "ジャラランガ",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_091_q2j1tgn6.png"
+  },
+  {
+    "file": "m6a_092_qdps9rz5.png",
+    "name": "ニャース",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_092_qdps9rz5.png"
+  },
+  {
+    "file": "m6a_093_itxfe4sh.png",
+    "name": "メタモン",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_093_itxfe4sh.png"
+  },
+  {
+    "file": "m6a_094_fawrayal.png",
+    "name": "イーブイ",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_094_fawrayal.png"
+  },
+  {
+    "file": "m6a_095_dl0fwwpi.png",
+    "name": "カビゴン",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_095_dl0fwwpi.png"
+  },
+  {
+    "file": "m6a_096_td4ncny1.png",
+    "name": "ププリン",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_096_td4ncny1.png"
+  },
+  {
+    "file": "m6a_097_7200po9e.png",
+    "name": "ルギア",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_097_7200po9e.png"
+  },
+  {
+    "file": "m6a_098_5zcx2g5r.png",
+    "name": "ヒスイゾロア",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_098_5zcx2g5r.png"
+  },
+  {
+    "file": "m6a_099_5kexac9j.png",
+    "name": "ヒスイゾロアーク",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_099_5kexac9j.png"
+  },
+  {
+    "file": "m6a_100_1xj9h1s5.png",
+    "name": "イッカネズミ",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_100_1xj9h1s5.png"
+  },
+  {
+    "file": "m6a_101_1wufog6y.png",
+    "name": "ハイパーボール",
+    "wide": false,
+    "category": "goods",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_101_1wufog6y.png"
+  },
+  {
+    "file": "m6a_102_ybcbf70d.png",
+    "name": "ポケパッド",
+    "wide": false,
+    "category": "goods",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_102_ybcbf70d.png"
+  },
+  {
+    "file": "m6a_103_m54ovaqn.png",
+    "name": "ポケモンいれかえ",
+    "wide": false,
+    "category": "goods",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_103_m54ovaqn.png"
+  },
+  {
+    "file": "m6a_104_wtwf8lme.png",
+    "name": "アローラナッシー",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_104_wtwf8lme.png"
+  },
+  {
+    "file": "m6a_105_1vugz2p2.png",
+    "name": "ファイヤー",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_105_1vugz2p2.png"
+  },
+  {
+    "file": "m6a_106_kizt5zx8.png",
+    "name": "ラプラス",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_106_kizt5zx8.png"
+  },
+  {
+    "file": "m6a_107_j7bh2nsq.png",
+    "name": "フリーザー",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_107_j7bh2nsq.png"
+  },
+  {
+    "file": "m6a_108_sudw26xt.png",
+    "name": "サンダー",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_108_sudw26xt.png"
+  },
+  {
+    "file": "m6a_109_ae67sejz.png",
+    "name": "ストリンダー",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_109_ae67sejz.png"
+  },
+  {
+    "file": "m6a_110_oacwz7zy.png",
+    "name": "モルペコ",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_110_oacwz7zy.png"
+  },
+  {
+    "file": "m6a_111_6a91uf8q.png",
+    "name": "フワンテ",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_111_6a91uf8q.png"
+  },
+  {
+    "file": "m6a_112_pcekpggz.png",
+    "name": "シャンデラ",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_112_pcekpggz.png"
+  },
+  {
+    "file": "m6a_113_4612818g.png",
+    "name": "ルガルガン",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_113_4612818g.png"
+  },
+  {
+    "file": "m6a_114_jx7biz6a.png",
+    "name": "ニドリーナ",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_114_jx7biz6a.png"
+  },
+  {
+    "file": "m6a_115_2ofc1owc.png",
+    "name": "アローラニャース",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_115_2ofc1owc.png"
+  },
+  {
+    "file": "m6a_116_57rirpnq.png",
+    "name": "ズルッグ",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_116_57rirpnq.png"
+  },
+  {
+    "file": "m6a_117_gx5kfwza.png",
+    "name": "ガラルニャース",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_117_gx5kfwza.png"
+  },
+  {
+    "file": "m6a_137_ov1ta9dw.png",
+    "name": "リザードン",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_137_ov1ta9dw.png"
+  },
+  {
+    "file": "m6a_138_27pxj1k3.png",
+    "name": "カスミ",
+    "wide": false,
+    "category": "supporter",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_138_27pxj1k3.png"
+  },
+  {
+    "file": "m6a_139_cjvkon6h.png",
+    "name": "エリカのプリン",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_139_cjvkon6h.png"
+  },
+  {
+    "file": "m6a_140_9ql7o1gu.png",
+    "name": "ニューラ",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_140_9ql7o1gu.png"
+  },
+  {
+    "file": "m6a_141_a40xqoy2.png",
+    "name": "ひかるセレビィ",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_141_a40xqoy2.png"
+  },
+  {
+    "file": "m6a_142_a3jxu2i6.png",
+    "name": "ルギア",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_142_a3jxu2i6.png"
+  },
+  {
+    "file": "m6a_143_tkv9pnr9.png",
+    "name": "エネコロロ",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_143_tkv9pnr9.png"
+  },
+  {
+    "file": "m6a_144_o4ld91ij.png",
+    "name": "わるいバンギラス",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_144_o4ld91ij.png"
+  },
+  {
+    "file": "m6a_145_1i3qu19p.png",
+    "name": "ハッサムex",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_145_1i3qu19p.png"
+  },
+  {
+    "file": "m6a_146_7q1ri4wz.png",
+    "name": "メタグロス",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_146_7q1ri4wz.png"
+  },
+  {
+    "file": "m6a_147_hultri51.png",
+    "name": "パルキア LV.X",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_147_hultri51.png"
+  },
+  {
+    "file": "m6a_148_dd49ioj9.png",
+    "name": "ユクシー",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_148_dd49ioj9.png"
+  },
+  {
+    "file": "m6a_149_qtbgchsx.png",
+    "name": "クロバットG",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_149_qtbgchsx.png"
+  },
+  {
+    "file": "m6a_150_afjdkhy2.png",
+    "name": "ゲンガー",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_150_afjdkhy2.png"
+  },
+  {
+    "file": "m6a_151152_49uhte7p.png",
+    "name": "ダークライ&クレセリアLEGEND",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_151152_49uhte7p.png"
+  },
+  {
+    "file": "m6a_153_his8neod.png",
+    "name": "N",
+    "wide": false,
+    "category": "supporter",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_153_his8neod.png"
+  },
+  {
+    "file": "m6a_154_qr5wtsjv.png",
+    "name": "レックウザEX",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_154_qr5wtsjv.png"
+  },
+  {
+    "file": "m6a_155_nv863iwf.png",
+    "name": "ゲノセクトEX",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_155_nv863iwf.png"
+  },
+  {
+    "file": "m6a_156_u09dho0m.png",
+    "name": "MサーナイトEX",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_156_u09dho0m.png"
+  },
+  {
+    "file": "m6a_157_d6pq8jnu.png",
+    "name": "ゲッコウガBREAK",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_157_d6pq8jnu.png"
+  },
+  {
+    "file": "m6a_158_an7yc6hm.png",
+    "name": "ソルガレオGX",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_158_an7yc6hm.png"
+  },
+  {
+    "file": "m6a_159_u1b7a1nt.png",
+    "name": "マッシブーンGX",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_159_u1b7a1nt.png"
+  },
+  {
+    "file": "m6a_160_rrj8zrtn.png",
+    "name": "ピカチュウ&ゼクロムGX",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_160_rrj8zrtn.png"
+  },
+  {
+    "file": "m6a_161_kqjwcejr.png",
+    "name": "ザシアンV",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_161_kqjwcejr.png"
+  },
+  {
+    "file": "m6a_162_rlm9pae6.png",
+    "name": "ライコウ",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_162_rlm9pae6.png"
+  },
+  {
+    "file": "m6a_163_s6x8ovr8.png",
+    "name": "ミュウVMAX",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_163_s6x8ovr8.png"
+  },
+  {
+    "file": "m6a_164_0ntdncsf.png",
+    "name": "アルセウスVSTAR",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_164_0ntdncsf.png"
+  },
+  {
+    "file": "m6a_165_kdj1zvxj.png",
+    "name": "コイキング",
+    "wide": false,
+    "category": "pokemon",
+    "source": "amedori",
+    "store": "akihabara",
+    "path": "./amedori/akihabara/m6a_165_kdj1zvxj.png"
+  }
+]
