@@ -1,5 +1,5 @@
-const SHELL_CACHE="pokeca-shell-v8";
-const RUNTIME_CACHE="pokeca-runtime-v8";
+const SHELL_CACHE="pokeca-shell-v9";
+const RUNTIME_CACHE="pokeca-runtime-v9";
 const USER_CACHE="pokeca-user-offline-v7-all";
 const SHELL=["./index.html","./manifest.webmanifest","./icon-192.png","./icon-512.png"];
 
