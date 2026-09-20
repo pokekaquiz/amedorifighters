@@ -80,7 +80,7 @@ button.primary{background:var(--accent);color:#0c1830}button.blue{background:#31
 </head>
 <body><div class="wrap">
 <div id="setup" class="panel">
-<h1>ポケカ絵当てクイズ <span style="font-size:12px;color:#aebbd0;font-weight:500">v7</span></h1>
+<h1>ポケカ絵当てクイズ <span style="font-size:12px;color:#aebbd0;font-weight:500">v8</span></h1>
 
 <div class="source-box">
  <div class="row">
@@ -174,7 +174,7 @@ button.primary{background:var(--accent);color:#0c1830}button.blue{background:#31
   <div class="qhead"><b id="qno">第1問</b><span id="remain" class="pill"></span></div>
   <div id="window" class="card-window">
     <img id="crop" class="crop"><img id="full" class="full">
-    <div id="quizMask" class="quiz-mask" aria-hidden="true"></div>
+    <div id="quizMask" class="quiz-mask" aria-hidden="true"></div><div id="quizMaskLeft" class="quiz-mask-left" aria-hidden="true"></div><div id="quizMaskRight" class="quiz-mask-right" aria-hidden="true"></div>
   </div>
   <div class="answer">
    <input id="input" type="text" placeholder="カード名を入力" autocomplete="off" autocorrect="off" spellcheck="false">
@@ -515,32 +515,30 @@ function renderCatalog(){
  renderCatalogStore(store,cards,root,true);
 }
 
-const QUIZ_TOP_MASKS={
-  "standard|IMG_6434.JPG":"8%",
-  "standard|IMG_6435.JPG":"8%",
-  "standard|IMG_6436.JPG":"8%",
-  "amedori|akihabara|m6a_153_his8neod.png":"5%",
-  "amedori|akihabara|card-13.png":"5%",
-  "amedori|akihabara|card-6.png":"11%",
-  "amedori|akihabara|m6a_138_27pxj1k3.png":"11%",
-  "amedori|akihabara|card-4.png":"11%"
+const QUIZ_MASKS={
+  "standard|IMG_6434.JPG":{left:"9.5%",right:"9.5%"},
+  "standard|IMG_6435.JPG":{left:"9.5%",right:"9.5%"},
+  "standard|IMG_6436.JPG":{left:"9.5%",right:"9.5%"},
+  "amedori|akihabara|m6a_153_his8neod.png":{top:"5%"},
+  "amedori|akihabara|card-13.png":{top:"5%"},
+  "amedori|akihabara|card-6.png":{top:"11%"},
+  "amedori|akihabara|m6a_138_27pxj1k3.png":{top:"11%"},
+  "amedori|akihabara|card-4.png":{top:"11%"}
 };
-function getQuizMaskValue(c){
+function getQuizMaskConfig(c){
   const keyWithStore=`${c.source}|${c.store||""}|${c.file}`;
   const keySimple=`${c.source}|${c.file}`;
-  return QUIZ_TOP_MASKS[keyWithStore]||QUIZ_TOP_MASKS[keySimple]||"";
+  return QUIZ_MASKS[keyWithStore]||QUIZ_MASKS[keySimple]||null;
 }
 function applyQuizMask(c){
-  const el=$("quizMask");
-  if(!el)return;
-  const v=getQuizMaskValue(c);
-  if(v){
-    el.style.display="block";
-    el.style.height=v;
-  }else{
-    el.style.display="none";
-    el.style.height="0";
-  }
+  const topEl=$("quizMask");
+  const leftEl=$("quizMaskLeft");
+  const rightEl=$("quizMaskRight");
+  if(!topEl||!leftEl||!rightEl)return;
+  const cfg=getQuizMaskConfig(c)||{};
+  if(cfg.top){topEl.style.display="block";topEl.style.height=cfg.top;}else{topEl.style.display="none";topEl.style.height="0";}
+  if(cfg.left){leftEl.style.display="block";leftEl.style.width=cfg.left;}else{leftEl.style.display="none";leftEl.style.width="0";}
+  if(cfg.right){rightEl.style.display="block";rightEl.style.width=cfg.right;}else{rightEl.style.display="none";rightEl.style.width="0";}
 }
 
 function imgPath(c){return c.path}
