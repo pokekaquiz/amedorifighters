@@ -31,6 +31,8 @@ button.primary{background:var(--accent);color:#0c1830}button.blue{background:#31
 .card-window.reveal .full{display:block;position:static;width:100%;height:auto;border-radius:14px;border:1px solid #334967}
 .card-window.wide{aspect-ratio:868/505}
 .card-window.wide .crop{transform:translateY(-11%)}
+.card-window.legend-side-cut .crop{clip-path:inset(0 10% 0 10%);-webkit-clip-path:inset(0 10% 0 10%)}
+
 .quiz-mask{position:absolute;left:0;top:0;width:100%;height:0;display:none;background:var(--panel);z-index:20;pointer-events:none;border-top-left-radius:15px;border-top-right-radius:15px}
 .card-window.reveal .quiz-mask{display:none!important}
 .scope-grid{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin:10px 0 12px}
@@ -80,7 +82,7 @@ button.primary{background:var(--accent);color:#0c1830}button.blue{background:#31
 </head>
 <body><div class="wrap">
 <div id="setup" class="panel">
-<h1>ポケカ絵当てクイズ <span style="font-size:12px;color:#aebbd0;font-weight:500">v9</span></h1>
+<h1>ポケカ絵当てクイズ <span style="font-size:12px;color:#aebbd0;font-weight:500">v10</span></h1>
 
 <div class="source-box">
  <div class="row">
@@ -516,9 +518,9 @@ function renderCatalog(){
 }
 
 const QUIZ_MASKS={
-  "standard|IMG_6434.JPG":{top:"8%",left:"9.5%",right:"9.5%"},
-  "standard|IMG_6435.JPG":{top:"8%",left:"9.5%",right:"9.5%"},
-  "standard|IMG_6436.JPG":{top:"8%",left:"9.5%",right:"9.5%"},
+  "standard|IMG_6434.JPG":{top:"8%"},
+  "standard|IMG_6435.JPG":{top:"8%"},
+  "standard|IMG_6436.JPG":{top:"8%"},
   "amedori|akihabara|m6a_153_his8neod.png":{top:"5%"},
   "amedori|akihabara|card-13.png":{top:"5%"},
   "amedori|akihabara|card-6.png":{top:"11%"},
@@ -676,11 +678,16 @@ async function clearOfflineImages(){
  alert("全カードのオフライン保存を削除しました。");
 }
 
+const LEGEND_SIDE_CUT_FILES=new Set(["IMG_6434.JPG","IMG_6435.JPG","IMG_6436.JPG"]);
+function isLegendSideCut(c){
+ return c && c.source==="standard" && LEGEND_SIDE_CUT_FILES.has(c.file);
+}
+
 function showCard(c){
  const u=imgPath(c);
  $("crop").src=u;
  $("full").src=u;
- $("window").className="card-window"+(c.wide?" wide":"");
+ $("window").className="card-window"+(c.wide?" wide":"")+(isLegendSideCut(c)?" legend-side-cut":"");
  applyQuizMask(c);
  $("feedback").textContent="";
  $("feedback").className="feedback";
@@ -847,7 +854,7 @@ $("input").addEventListener("keydown",e=>{
 });
 
 if("serviceWorker" in navigator && location.protocol.startsWith("http")){
- navigator.serviceWorker.register("./sw.js?v=7",{updateViaCache:"none"})
+ navigator.serviceWorker.register("./sw.js?v=10",{updateViaCache:"none"})
    .then(reg=>reg.update().catch(()=>{}))
    .catch(()=>{});
 }
